@@ -66,9 +66,9 @@ Params | Value | Description | Valid format example
 
 
 ### To do:
-Please create an app using the `index.html` included here. Your app should be able to add a user to the address book. Please validate all inputs before adding a user to the database. 
+Please create an app using the `index.html` included here. Your app should be able to add a user to the address book. Please validate (using JavaScript) all inputs before adding a user to the database. 
 
-Do not use jQuery for this project. Alternatives such as fetch will work. 
+Do not use jQuery for this project. Alternatives such as fetch will work (note: you will need to include the proper headers if you are using fetch). 
 
 Please send a link to your git repo once you're finished.
 
